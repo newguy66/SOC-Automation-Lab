@@ -10,7 +10,7 @@ The purpose of this lab was to build a SOC Automation Lab, using Wazuh for SIEM 
 - Configure Servers and Endpoints to communicate on a VLAN
 - Set up Wazuh to collect telemetry and trigger alerts
 - Integrate SOAR capabilites into the Lab
-- 
+  
 
 
 ### Tools Used
@@ -46,5 +46,4 @@ The purpose of this lab was to build a SOC Automation Lab, using Wazuh for SIEM 
 
   ![image](https://github.com/user-attachments/assets/3fd20895-ec94-4376-9728-85196032118d)
 
-
-- 
+- This was then piped to TheHive, in order to create alerts and email notifications

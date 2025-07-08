@@ -44,6 +44,7 @@ The purpose of this lab was to build a SOC Automation Lab, using Wazuh for SIEM 
 
 - On Shuffle, I created a workflow to collect the Wazuh alert and trigger a webhook, which I then used to run a parsed SHA256 hash through VirusTotal
 
-  ![image](https://github.com/user-attachments/assets/c3de7df0-c2eb-4ec2-bc7a-f9264aa4dc5a)
+  ![image](https://github.com/user-attachments/assets/3fd20895-ec94-4376-9728-85196032118d)
+
 
 - 
